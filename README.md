@@ -1,10 +1,8 @@
-# mattyjsmith.github.io
-
-Matthew J. Smith, PhD
+#Matthew J. Smith, PhD
 
 Postdoctoral Research Fellow in Biostatistics
 
-Biography
+#Biography
 
 Matthew has experience in applying advanced statistical methods to answer epidemiological research questions regarding cancer patient health outcomes. His research involves investigating the patient and healthcare system interactions, evaluating interventions to reduce inequalities, and recommending key policy decisions.
 
